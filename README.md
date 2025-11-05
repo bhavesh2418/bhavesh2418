@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Bhavesh  Makwana👋  
+### Data Analyst • Data Scientist  
 
-<!--
-**bhavesh2418/bhavesh2418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Python | SQL | Pandas | NumPy  
+🔹 Machine Learning | Deep Learning  
+🔹 Power BI | Data Visualization  
+🔹 Selenium Automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+I'm a Data Analyst / Scientist with experience in
+automation, reporting, and building ML projects.
+
+Currently:
+✅ Automating data workflows for FCI  
+✅ Working on image classification using VGG16  
+✅ Building dashboards & insights  
+
+---
+
+## 🚀 Projects
+- Fruit Classification (VGG16) → Repo Link
+- Retail Sales EDA → Repo Link
+- Dashboarding & Analysis → Repo Link
+
+---
+
+## 📄 Resume
+[Download Resume](link)
+
+---
+
+## 🔗 Connect
+LinkedIn:  
+GitHub:  
+
