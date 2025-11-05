@@ -19,10 +19,11 @@ Currently:
 
 ---
 
-## 🚀 Projects
-- Fruit Classification (VGG16) → Repo Link
-- Retail Sales EDA → Repo Link
-- Dashboarding & Analysis → Repo Link
+## 🚀 Project
+https://github.com/bhavesh2418/Customer-Churn-Prediction-Retail
+[bhavesh2418/Global_Fashion_Retail_Sales](https://github.com/bhavesh2418/Global_Fashion_Retail_Sales)
+[bhavesh2418/SpaceX_launch_track](https://github.com/bhavesh2418/SpaceX_launch_track)
+
 
 ---
 
