@@ -20,7 +20,7 @@ Currently:
 ---
 
 ## 🚀 Project
-https://github.com/bhavesh2418/Customer-Churn-Prediction-Retail
+[https://github.com/bhavesh2418/Customer-Churn-Prediction-Retail](https://github.com/bhavesh2418/Customer-Churn-Prediction-Retail)
 [bhavesh2418/Global_Fashion_Retail_Sales](https://github.com/bhavesh2418/Global_Fashion_Retail_Sales)
 [bhavesh2418/SpaceX_launch_track](https://github.com/bhavesh2418/SpaceX_launch_track)
 
@@ -33,6 +33,6 @@ https://github.com/bhavesh2418/Customer-Churn-Prediction-Retail
 ---
 
 ## 🔗 Connect
-LinkedIn:  
-GitHub:  
+LinkedIn:[  https://www.linkedin.com/in/bhavesh-makwana-33a0a72b4/](https://www.linkedin.com/in/bhavesh-makwana-33a0a72b4/)
+ 
 
