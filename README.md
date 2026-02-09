@@ -13,8 +13,8 @@ I'm a Data Analyst / Scientist with experience in
 automation, reporting, and building ML projects.
 
 Currently:
-✅ Automating data workflows for FCI  
-✅ Working on image classification using VGG16  
+✅ as Operation Analyst in FCI.  
+✅ Managing workflows and providing data driven insights.  
 ✅ Building dashboards & insights  
 
 ---
